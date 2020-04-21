@@ -7,4 +7,8 @@ public class common {
         System.out.println("sssss");
         System.out.println("sssss");
     }
+    public void test(){
+        int i=0;
+        i +=10;
+    }
 }
