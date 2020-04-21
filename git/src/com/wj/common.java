@@ -6,9 +6,11 @@ public class common {
         System.out.println("sssss");
         System.out.println("sssss");
         System.out.println("sssss");
+        //hello
     }
     public void test(){
         int i=0;
         i +=10;
+        System.out.println(i);
     }
 }
